@@ -1,0 +1,36 @@
+
+img {
+    display: block;
+      margin-left: auto;
+      margin-right: auto;  
+  }
+  
+  a {
+      position: relative;
+      left: 710px;
+      bottom: 500px;
+  }
+  a:link, a:visited {
+     
+      color: rgb(0, 0, 0);
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      
+      color: rgba(55, 0, 255, 0.528);
+      
+    }
+.aiu {
+    position: relative;
+    left: 580px;
+    bottom: 380px;
+}
+.soal {
+    position: relative;
+    left: 463px;
+    bottom: 270px;
+}
